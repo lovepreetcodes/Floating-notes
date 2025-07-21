@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/github/license/your-username/floating-notes" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlM3YxenlkcGJjb2g1NnI1MGRxZmc4YWJjcjloYjhlZ3I1MWVtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dtT4FfcV3iAkwbRczk/giphy.gif" width="80%" />
-</p>
+
 
 ## 🌟 About the Project
 
@@ -65,8 +63,9 @@ New ideas, animations, and features are welcome — this is a creative space!
 
 ## 📸 Screenshots
 
-> *(Add some GIFs or images of the app in action here!)*
+![App Screenshot](src//assets/screenshot.png)
 
+![App Screenshot](src//assets/screenshot-1.png)
 ---
 
 ## 📬 Contact
