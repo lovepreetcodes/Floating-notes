@@ -1,8 +1,82 @@
-# React + Vite
+# 📝 Floating Notes – A Playful Visual Prototype
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-prototype-orange" />
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" />
+  <img src="https://img.shields.io/github/license/your-username/floating-notes" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlM3YxenlkcGJjb2g1NnI1MGRxZmc4YWJjcjloYjhlZ3I1MWVtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dtT4FfcV3iAkwbRczk/giphy.gif" width="80%" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 About the Project
+
+**Floating Notes** is a visually engaging prototype where cards "float" and bounce on screen. You can **manually add cards via code**, and once they appear, they:
+
+- 🧲 Bounce with playful physics  
+- 🖱️ Are draggable anywhere in the window  
+- 🎨 Act as a canvas for future productivity features  
+
+It's currently a **visual prototype**, but it’s a living project — more features like note editing, saving, and multi-device sync are on the way.
+
+---
+
+## ⚡ Features
+
+- 🪄 Visually animated floating notes  
+- 🖼️ Clean and minimal design  
+- 🖱️ Smooth drag-and-drop interactions  
+- 🔧 Built with flexibility for future enhancements
+
+---
+
+## 🚧 Roadmap
+
+- [ ] Add a UI to create notes without touching code  
+- [ ] Implement persistent storage (LocalStorage/Database)  
+- [ ] Add edit/delete functionality  
+- [ ] Markdown support  
+- [ ] Multi-device sync  
+- [ ] Collaborative mode  
+
+---
+
+## 💡 Contributing
+
+We’d love help from the community to shape this into a powerful tool!
+
+- Fork the repo  
+- Create a new branch (`git checkout -b feature-xyz`)  
+- Commit your changes  
+- Push and open a Pull Request 🎉  
+
+New ideas, animations, and features are welcome — this is a creative space!
+
+---
+
+## 🛠 Tech Stack
+
+- React / JavaScript  
+- CSS Animations  
+- Framer Motion (or similar for motion effects)
+
+---
+
+## 📸 Screenshots
+
+> *(Add some GIFs or images of the app in action here!)*
+
+---
+
+## 📬 Contact
+
+Have suggestions ?
+
+---
+
+> ⚠️ _This is an open prototype. Expect bugs, magic, and big changes._
+
+---
+
+<p align="center"><b>⭐️ Give the project a star if you like it!</b></p>
