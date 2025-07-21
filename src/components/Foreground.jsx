@@ -4,7 +4,7 @@ function Foreground() {
   const ref = useRef(null)
     const data = [
         {
-            desc:"dickface",
+            desc:"This is first widget",
             filesize:"4.2MB",
             close: false,
             tag:{isopen:true, tagtitle:"Download Now",tagColor:"green"}
